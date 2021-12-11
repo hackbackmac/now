@@ -1,0 +1,5 @@
+Goto the directory 
+Type 'wsl' in the address bar
+Use command : 
+find . -name '*.dart' | xargs wc -l >> lins.txt  
+for .dart files
